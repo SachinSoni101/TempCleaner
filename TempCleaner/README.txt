@@ -1,1 +1,5 @@
-This Program is compltely usaibas sdoe all you can mdske sdchjnma.
+This Program is completely free to use.
+
+You can use this program with its credit in your program.
+
+------Credit - 101 --------
