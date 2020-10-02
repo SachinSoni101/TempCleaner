@@ -1,1 +1,7 @@
-what dwils it do awith aikt
+This program uses python module called pyautogui.
+pyautogui is an open-source module which can control your keyboard and mouse input.
+
+How It Works - 
+
+1.first it will open run and type temp.
+2.then it will delete all temp files.
