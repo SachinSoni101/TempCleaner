@@ -1,2 +1,2 @@
 # TempCleaner
-This Python automation program will delete all temp files from system automatically.
+This is an Python automation program, it will delete all temporary files from system automatically when you run it.
